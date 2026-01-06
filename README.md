@@ -1,5 +1,7 @@
 # Vừa đi đường vừa kể chuyện - T. Lan (Hồ Chí Minh) (Trang dự án số hóa sách)
 
+[Truy cập Trang dự án số hóa này sách trên Github](https://github.com/khudocmo/ho-chi-minh_vua-di-duong-vua-ke-chuyen)
+
 ## Thông tin tác phẩm
 
 - Tác phẩm: Vừa đi đường vừa kể chuyện
@@ -14,3 +16,4 @@
 <a href="./files/ho-chi-minh_vua-di-duong-vua-ke-chuyen.txt"><img src="/assets/txt.png" alt="TXT" width="50" /></a>
 
 <p>hoặc <a href="./files/ho-chi-minh_vua-di-duong-vua-ke-chuyen.html">Đọc trực tuyến</a>
+
